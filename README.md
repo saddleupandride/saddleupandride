@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @saddleupandride
 - 👀 I’m interested in Python coding and medicine
 - 🌱 I’m currently learning Python coding
-- 📫 You can reach out to me here or on Discord:
+- 📫 You can reach out to me on Discord:
 - saddleup_andride#9579
 
 <!---
