@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python coding and medicine
 - 🌱 I’m currently learning Python coding
 - 📫 You can reach out to me on Discord:
-- garlic bread#9579
+- FLTLT jeremy#2645
 
 <!---
 saddleupandride/saddleupandride is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
